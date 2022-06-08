@@ -1,4 +1,4 @@
 # goldcraft
 A Simple Website Minecraft Server thats responsive 
 
-Demo Link: http://SigitGamers.github.io/goldcraft/
+Demo Link: http://sigitgamers.github.io/goldcraft/
